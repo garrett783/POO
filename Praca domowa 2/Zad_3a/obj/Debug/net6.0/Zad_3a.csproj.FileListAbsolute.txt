@@ -1,0 +1,14 @@
+D:\PO\Praca domowa 2\Zad_3a\bin\Debug\net6.0\Zad_3a.exe
+D:\PO\Praca domowa 2\Zad_3a\bin\Debug\net6.0\Zad_3a.deps.json
+D:\PO\Praca domowa 2\Zad_3a\bin\Debug\net6.0\Zad_3a.runtimeconfig.json
+D:\PO\Praca domowa 2\Zad_3a\bin\Debug\net6.0\Zad_3a.dll
+D:\PO\Praca domowa 2\Zad_3a\bin\Debug\net6.0\Zad_3a.pdb
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.AssemblyInfoInputs.cache
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.AssemblyInfo.cs
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.csproj.CoreCompileInputs.cache
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.dll
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\refint\Zad_3a.dll
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.pdb
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\Zad_3a.genruntimeconfig.cache
+D:\PO\Praca domowa 2\Zad_3a\obj\Debug\net6.0\ref\Zad_3a.dll

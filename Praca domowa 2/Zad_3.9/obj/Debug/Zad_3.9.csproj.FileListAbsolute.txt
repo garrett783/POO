@@ -1,0 +1,7 @@
+D:\PO\Praca domowa 2\Zad_3.9\bin\Debug\Zad_3.9.exe.config
+D:\PO\Praca domowa 2\Zad_3.9\bin\Debug\Zad_3.9.exe
+D:\PO\Praca domowa 2\Zad_3.9\bin\Debug\Zad_3.9.pdb
+D:\PO\Praca domowa 2\Zad_3.9\obj\Debug\Zad_3.9.csproj.AssemblyReference.cache
+D:\PO\Praca domowa 2\Zad_3.9\obj\Debug\Zad_3.9.csproj.CoreCompileInputs.cache
+D:\PO\Praca domowa 2\Zad_3.9\obj\Debug\Zad_3.9.exe
+D:\PO\Praca domowa 2\Zad_3.9\obj\Debug\Zad_3.9.pdb
